@@ -2,11 +2,12 @@
  * Lithium-Ion Battery Charger Class
  *
  * This source file can be found under:
- * http://www.github.com/microfarad-de/LiCharger
+ * http://www.github.com/arduino-library/LiCharger
  *
  * Please visit:
  *   http://www.microfarad.de
  *   http://www.github.com/microfarad-de
+ *   http://www.github.com/arduino-library
  *
  * Copyright (C) 2019 Karim Hraibi (khraibi at gmail.com)
  *
