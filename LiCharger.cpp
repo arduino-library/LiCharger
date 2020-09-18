@@ -32,8 +32,8 @@
 /*
  * Configuration parameters
  */
-#define V_MAX           4150000  // 4.15 V - Maximum allowed battery voltage per cell in µV
-#define V_START_MAX     4100000  // 4.10 V - Start charging below this voltage per cell in µV
+#define V_MAX           4000000  // 4.00 V - Maximum allowed battery voltage per cell in µV
+#define V_START_MAX     3950000  // 3.95 V - Start charging below this voltage per cell in µV
 #define V_START_MIN     2200000  // 2.20 V - Start charging above this voltage per cell in µV (lower than V_MIN to overcome BMS shutdown)
 #define V_SURGE         4250000  // 4.25 V - maximum allowed surge voltage threshold per cell in µV
 #define V_SAFE          2800000  // 2.80 V - Charge with reduced current I_safe below this voltage per cell in µV
